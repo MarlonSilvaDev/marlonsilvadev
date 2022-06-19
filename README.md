@@ -1,8 +1,7 @@
-## Olá, Sou Marlon Silva!
-## Seja bem vindo ao meu GitHub.
+## Olá, Sou Marlon Silva!  Seja bem vindo ao meu GitHub.
 <div align="center">
   <a href="https://github.com/MarlonSilva2028">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marlonsilva2028&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=marlonsilva2028&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonsilva2028&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
@@ -17,9 +16,9 @@
   ##
  
 <div> 
-  <a href="https://www.instagram.com/93marlon_silva/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%20b2aa?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:marlon.m_silva@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%fff?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marlon-silva-910b1783/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%fff?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/93marlon_silva/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%20b2aa?style=for-the-badge&logo=instagram&logoColor=grey" target="_blank"></a>
+  <a href = "mailto:marlon.m_silva@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%fff?style=for-the-badge&logo=Outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/marlon-silva-910b1783/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%fff?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank"></a> 
  
  
 </div>
