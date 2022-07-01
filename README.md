@@ -20,7 +20,7 @@
   ##
  
 <div> 
-  <a href="https://www.instagram.com/93marlon_silva/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%20b2aa?style=for-the-badge&logo=instagram&logoColor=bluw" target="_blank"></a>
+  <a href="https://www.instagram.com/93marlon_silva/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%20b2aa?style=for-the-badge&logo=instagram&logoColor=blue" target="_blank"></a>
   <a href = "mailto:marlon.m_silva@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%fff?style=for-the-badge&logo=Gmail&logoColor=blue" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marlon-silva-910b1783/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%fff?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank"></a> 
  
