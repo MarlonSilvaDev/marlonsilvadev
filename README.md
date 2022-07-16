@@ -1,4 +1,4 @@
-## Olá, Sou Marlon!  Seja bem vindo ao meu GitHub.
+## Hey, I'm Marlon! Welcome to my GitHub.
 <div align="center">
   <a href="https://github.com/93marlonsilva">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=93marlonsilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
