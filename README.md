@@ -1,5 +1,5 @@
 ## Hey, I'm Marlon! Welcome to my GitHub.
-<div align="center">
+<div>
   <a href="https://github.com/93marlonsilva">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=93marlonsilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=93marlonsilva&layout=compact&langs_count=7&theme=dark"/>
