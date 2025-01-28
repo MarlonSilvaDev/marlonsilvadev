@@ -16,8 +16,8 @@
   ##
  
 <div> 
-  <a href = "https://www.instagram.com/93marlonsilva"><img src="https://img.shields.io/badge/-Instagram-39deff?style=for-the-badge&logoColor=white" target="_blank"></a>
-  <a href = "mailto:marlon.m_silva@outlook.com"><img src="https://img.shields.io/badge/-Outlook-1E90FF?style=for-the-badge&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marlon-silva-910b1783/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-30c6e1?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://portifolio-marlon-silva93.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portifolio-00d7b3?style=for-the-badge&logo=portifolio&logoColor=white" target="_blank"></a> 
+  <a href = "https://www.instagram.com/93marlonsilva"><img src="https://img.shields.io/badge/-Instagram-66b0d0?style=for-the-badge&logoColor=white" target="_blank"></a>
+  <a href = "mailto:marlon.m_silva@outlook.com"><img src="https://img.shields.io/badge/-Outlook-59c4b9?style=for-the-badge&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/marlon-silva-910b1783/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-00a7f0?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://portifolio-marlon-silva93.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portifolio-3bc6ae?style=for-the-badge&logo=portifolio&logoColor=white" target="_blank"></a> 
 </div>
