@@ -1,4 +1,6 @@
-## Hey, I'm Marlon! Welcome to my GitHub.
+### Hey, I'm Marlon! Welcome to my GitHub.
+Full-stack developer with over two years of experience building cross-platform applications, focusing on Flutter, ReactJS/NextJS, NodeJS, and Kotlin. I have experience integrating with relational databases, security practices such as JWT and OAuth2, and applying     best practices in coding and architecture (Clean Code, SOLID) and working in an agile and collaborative environment (Scrum, Kanban).
+##
 <div>
   <a href="https://github.com/93marlonsilva">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=93marlonsilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -18,7 +20,4 @@
    <img align="center" alt="Marlon-Postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
   
-   
-  ## 
-  Full-stack developer with over two years of experience building cross-platform applications, focusing on Flutter, ReactJS/NextJS, NodeJS, and Kotlin. I have experience integrating with relational databases, security practices such as JWT and OAuth2, and applying     best practices in coding and architecture (Clean Code, SOLID) and working in an agile and collaborative environment (Scrum, Kanban).
 
