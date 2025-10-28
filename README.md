@@ -3,8 +3,8 @@ Full-stack developer with over two years of experience building cross-platform a
 ##
 <div>
   <a href="https://github.com/marlonsilvadev">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=marlonsilvadev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonsilvadev&layout=compact&langs_count=7&theme=dark"/>
+   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=marlonsilvadev&theme=dark&show_icons=true&icon_color=05b7ff&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonsilvadev&layout=compact&langs_count=8&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
    <img align="center" alt="Marlon-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
