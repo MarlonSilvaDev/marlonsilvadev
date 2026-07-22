@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/marlonsilvadev">
+  <a href="https://github.com/marlonsilvadev" target="_blank" rel="noopener noreferrer">
     <img src="./assets/capa.png" alt="Marlon Silva - Full Stack Developer"/>
   </a>
 </div>
@@ -7,29 +7,27 @@
 <br>
 
 <div align="center">
-  <a href="https://marlonsilvadev.vercel.app">
+  <a href="https://marlonsilvadev.vercel.app" target="_blank" rel="noopener noreferrer">
     <img 
       src="https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge&labelColor=2563EB&color=0a3069" 
       alt="Portfolio"
     >
   </a>
 
-  <a href="https://www.linkedin.com/in/marlonsilva-dev/">
+  <a href="https://www.linkedin.com/in/marlonsilva-dev/" target="_blank" rel="noopener noreferrer">
     <img 
       src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&labelColor=0A66C2&color=0A66C2" 
       alt="LinkedIn"
     >
   </a>
 
-  <a href="mailto:marlon.m_silva@outlook.com">
+  <a href="mailto:marlon.m_silva@outlook.com" target="_blank" rel="noopener noreferrer">
     <img 
       src="https://img.shields.io/badge/EMAIL-444444?style=for-the-badge&labelColor=444444&color=0f7796" 
       alt="Email"
     >
   </a>
 </div>
-
-
 
 <br>
 
