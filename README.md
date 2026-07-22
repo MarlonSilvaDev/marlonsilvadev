@@ -33,7 +33,7 @@
 
 <br>
 
-## 👋 About Me
+### Building, learning, and solving problems through technology.
 
 Driven by continuous learning, curiosity, and problem-solving.
 
@@ -41,7 +41,7 @@ I am a **Full Stack Developer with 3 years of experience in Software Engineering
 
 My journey in technology began in technical support and ERP and time-tracking system implementation. This experience gave me a strong understanding of business operations and the ability to transform real-world problems into practical, scalable software solutions.
 
-### 💻 Technical Experience
+### Technical Experience
 
 * **Frontend:** Flutter, React, React Native, Next.js, Angular, TypeScript
 * **Backend:** Node.js, Java, Spring Boot, Kotlin
@@ -54,7 +54,7 @@ My journey in technology began in technical support and ERP and time-tracking sy
 
 I also participate in **technical refinements, requirements gathering, solution definition, architecture decisions, and collaboration with clients and multidisciplinary teams**.
 
-### 🚀 Currently Learning
+### Currently Learning
 
 I am currently deepening my knowledge in:
 
@@ -66,8 +66,6 @@ I am currently deepening my knowledge in:
 My goal is to combine **software engineering, cloud computing, and artificial intelligence** to build scalable, secure, efficient solutions that create real value for users and businesses.
 
 ---
-
-## 🛠️ Technologies
 
 <div align="center">
 
@@ -87,9 +85,3 @@ My goal is to combine **software engineering, cloud computing, and artificial in
 </div>
 
 ---
-
-<div align="center">
-
-### ⭐ Building, learning, and solving problems through technology.
-
-</div>
