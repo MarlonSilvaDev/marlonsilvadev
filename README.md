@@ -35,7 +35,7 @@
 
 Driven by continuous learning, curiosity, and problem-solving.
 
-I am a **Full Stack Developer with 3 years of experience in Software Engineering**, working across Web, Mobile, and Cross-Platform applications. My experience spans the entire software development lifecycle — from requirements gathering and architecture definition to deployment, maintenance, and the continuous evolution of production systems.
+I am a **Full Stack Developer with 3 years of experience in Software Engineering**, working across Web, Mobile, and Cross-Platform applications. My experience spans the entire software development lifecycle from requirements gathering and architecture definition to deployment, maintenance, and the continuous evolution of production systems.
 
 My journey in technology began in technical support and ERP and time-tracking system implementation. This experience gave me a strong understanding of business operations and the ability to transform real-world problems into practical, scalable software solutions.
 
