@@ -41,12 +41,13 @@ My journey in technology began in technical support and ERP and time-tracking sy
 
 ### Technical Experience
 
-* **Frontend:** Flutter, React, React Native, Next.js, Angular, TypeScript
-* **Backend:** Node.js, Java, Spring Boot, Kotlin
+* **Frontend:** React, Next.js, Angular, TypeScript
+* **Mobile:** Flutter, React Native, Kotlin
+* **Backend:** Node.js, Java, Spring Boot
 * **Architecture:** Clean Architecture, SOLID, Design Patterns, MVVM, MVC
-* **Integration:** REST APIs, SOAP APIs, Microservices, Micro Frontends, BFF
+* **Integration:** REST APIs, SOAP APIs, Microservices, Monolito, Micro Frontends, BFF
 * **Security:** JWT, OAuth2
-* **Databases:** PostgreSQL, MySQL, SQLite, Firebird
+* **Databases:** PostgreSQL, MySQL, SQLite, Firebird, Mongo DB
 * **DevOps:** Docker, Kubernetes, CI/CD
 * **Cloud:** AWS, Microsoft Azure, Google Cloud
 
